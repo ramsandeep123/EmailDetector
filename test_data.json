@@ -1,0 +1,18 @@
+[
+	{ "text": "Meeting rescheduled to 3 PM", "label": "ham" },
+	{ "text": "Exclusive offer for loyal customers", "label": "spam" },
+	{ "text": "How's your day going?", "label": "ham" },
+	{ "text": "You've been selected for a free trial", "label": "spam" },
+	{ "text": "Reminder: Don't forget to pick up groceries", "label": "ham" },
+	{ "text": "Limited time offer: 50% off on all items", "label": "spam" },
+	{ "text": "Hope to see you soon!", "label": "ham" },
+	{ "text": "Congratulations! You've won a prize!", "label": "spam" },
+	{ "text": "Just checking in, how's everything?", "label": "ham" },
+	{ "text": "Claim your free gift now", "label": "spam" },
+	{ "text": "Reminder: Pay your bills before the due date", "label": "ham" },
+	{ "text": "Don't miss out on this amazing opportunity", "label": "spam" },
+	{ "text": "Hi there, how have you been?", "label": "ham" },
+	{ "text": "You're invited to an exclusive event", "label": "spam" },
+	{ "text": "Need help with anything? Let me know", "label": "ham" },
+	{ "text": "Act now and get a special discount", "label": "spam" }
+]

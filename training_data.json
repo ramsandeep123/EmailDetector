@@ -1,0 +1,32 @@
+[
+	{ "text": "Hey, how are you?", "label": "ham" },
+	{ "text": "Get a special discount now!", "label": "spam" },
+	{ "text": "Reminder: Meeting at 2 PM", "label": "ham" },
+	{ "text": "Claim your prize today!", "label": "spam" },
+	{ "text": "Don't forget to submit your report", "label": "ham" },
+	{ "text": "Limited time offer: Buy one get one free!", "label": "spam" },
+	{ "text": "Hi, what's up?", "label": "ham" },
+	{ "text": "You've won a million dollars!", "label": "spam" },
+	{ "text": "Just checking in to see how you're doing", "label": "ham" },
+	{ "text": "Exclusive deal for our subscribers", "label": "spam" },
+	{ "text": "Don't miss out on our latest product release", "label": "spam" },
+	{ "text": "Reminder: Your appointment is tomorrow", "label": "ham" },
+	{ "text": "Limited time offer: 70% off on selected items", "label": "spam" },
+	{ "text": "Hi, it's been a while. How have you been?", "label": "ham" },
+	{
+		"text": "Congratulations! You've been selected as a winner",
+		"label": "spam"
+	},
+	{
+		"text": "Friendly reminder: Your subscription is expiring soon",
+		"label": "ham"
+	},
+	{ "text": "Act now and save big on your next purchase", "label": "spam" },
+	{ "text": "Hope you're having a great day!", "label": "ham" },
+	{ "text": "Unlock exclusive member benefits today", "label": "spam" },
+	{ "text": "Just wanted to say hello", "label": "ham" }
+]
+
+
+  
+  
